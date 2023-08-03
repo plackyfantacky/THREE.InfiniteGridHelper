@@ -3,7 +3,9 @@
 # THREE.InfiniteGridHelper
 Infinite anti-aliased grid.
 
-[Original demo](https://codepen.io/Fyrestar/pen/wLxjYj) (you'll need to use an older version of ThreeJS for thi)
+Original Author: Fyrestar https://mevedia.com (https://github.com/Fyrestar/THREE.InfiniteGridHelper)
+
+[Original demo](https://codepen.io/Fyrestar/pen/wLxjYj) (you'll need to use an older version of ThreeJS for this)
 
 ![InfiniteGridHelper](https://mevedia.com/share/InfiniteGridHelper.jpg)
 
