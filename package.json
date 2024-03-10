@@ -1,6 +1,6 @@
 {
     "name": "@plackyfantacky/three.infinitegridhelper",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Infinite anti-aliased grid. Forked from original repo: https://github.com/Fyrestar/THREE.InfiniteGridHelper",
     "main": "InfiniteGridHelper.js",
     "scripts": {
