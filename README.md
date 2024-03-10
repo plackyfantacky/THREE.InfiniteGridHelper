@@ -3,22 +3,29 @@
 # THREE.InfiniteGridHelper
 Infinite anti-aliased grid.
 
-Original Author: Fyrestar https://mevedia.com (https://github.com/Fyrestar/THREE.InfiniteGridHelper)
-
-[Original demo](https://codepen.io/Fyrestar/pen/wLxjYj) (you'll need to use an older version of ThreeJS for this)
+> [Original demo](https://codepen.io/Fyrestar/pen/wLxjYj) (you'll need to use an older version of ThreeJS for this)
 
 ![InfiniteGridHelper](https://mevedia.com/share/InfiniteGridHelper.jpg)
 
-2023 update by Plackyfantacky.
+### 2024 update by @plackyfantacky
 
-### Install and Usage
+Pretty much all credit/blame belongs to [Fyrestar](https://github.com/Fyrestar/THREE.InfiniteGridHelper). I just forked their work, updated it to work with more recent versions 
+of ThreeJS and made it into an npm package for easy import. Nothing major.
 
-1. clone this repo or download the files into your project
-2. in your main JavaScript file add the following near the top of your code:
-```javascript
-import InfiniteGridHelper from './THREE.InfiniteGridHelper/InfiniteGridHelper.js';
+### Install
+
+```console
+npm i @plackyfantacky/three.infinitegridhelper
 ```
-1. also add the following after your scene object is created:
+
+### Usage
+
+```javascript
+import InfiniteGridHelper from 'InfiniteGridHelper';
+```
+
+Use it in your ThreeJS scene like this:
+
 ```javascript
 // assuming you have already written...
 // let scene = new THREE.Scene()

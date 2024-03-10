@@ -1,0 +1,30 @@
+{
+    "name": "@plackyfantacky/three.infinitegridhelper",
+    "version": "1.0.0",
+    "description": "Infinite anti-aliased grid. Forked from original repo: https://github.com/Fyrestar/THREE.InfiniteGridHelper",
+    "main": "InfiniteGridHelper.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/plackyfantacky/THREE.InfiniteGridHelper.git"
+    },
+    "keywords": [
+        "three.js",
+        "three",
+        "plane",
+        "3d",
+        "canvas",
+        "scene"
+    ],
+    "author": "Adam Trickett (Original author: Fyrestar)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/plackyfantacky/THREE.InfiniteGridHelper/issues"
+    },
+    "homepage": "https://github.com/plackyfantacky/THREE.InfiniteGridHelper#readme",
+    "exports": {
+        ".": "./InfiniteGridHelper.js"
+    }
+}
