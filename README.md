@@ -41,7 +41,3 @@ let grid = new InfiniteGridHelper(0.1, 1, new THREE.Color('black'), 30, 'xzy');
 scene.add(grid);
 ```
 
-![InfiniteGridHelper-02](https://adamtrickett.com/Screenshot-2023-08-03.png)
-
-
-
