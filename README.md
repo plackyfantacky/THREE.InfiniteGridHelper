@@ -21,7 +21,7 @@ npm i @plackyfantacky/three.infinitegridhelper
 ### Usage
 
 ```javascript
-import InfiniteGridHelper from 'InfiniteGridHelper';
+import InfiniteGridHelper from '@plackyfantacky/three.infinitegridhelper';
 ```
 
 Use it in your ThreeJS scene like this:
